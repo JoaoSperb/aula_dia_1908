@@ -1,8 +1,6 @@
 package br.pucrs.jroedel;
-
-import static org.junit.Assert.assertTrue;
-
-import org.junit.Test;
+import org.junit.jupiter.api.*;
+import static org.junit.jupiter.api.Assertions.*;
 
 /**
  * Unit test for simple App.
